@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+notebook/hymenoptera_data/
+notebook/VGG16_f11_model.h5
+notebook/trained_model.h5
