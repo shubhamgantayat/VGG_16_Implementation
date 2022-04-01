@@ -131,3 +131,4 @@ dmypy.json
 notebook/hymenoptera_data/
 notebook/VGG16_f11_model.h5
 notebook/trained_model.h5
+notebook/tflite_model_dir/
